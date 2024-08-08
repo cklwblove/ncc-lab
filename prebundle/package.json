@@ -1,0 +1,13 @@
+{
+  "type": "module",
+  "scripts": {
+    "prebundle": "prebundle"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.1.0",
+    "browserslist": "4.23.3",
+    "prebundle": "^1.2.2",
+    "typescript": "^5.5.2"
+  }
+}

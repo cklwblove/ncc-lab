@@ -49,5 +49,11 @@ export default {
         );
       },
     },
+    {
+      name: 'jiti',
+      // jiti has been minified, we do not need to prettier it
+      prettier: false,
+      ignoreDts: true,
+    },
   ]
 };
